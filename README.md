@@ -1,6 +1,6 @@
 # A/B Test Decision Engine — Fintech Loan CTA
 
-> **Try the live app →** 🔗 `(https://abtestingfintech.streamlit.app)`
+> **Try the live app →** 🔗 [LIVE APP]([https://your-url-here.com](https://abtestingfintech.streamlit.app))
 >
 > *See the deployment instructions below to get this live in under 5 minutes (free, no server needed).*
 
