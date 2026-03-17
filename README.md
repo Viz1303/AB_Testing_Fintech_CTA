@@ -1,6 +1,6 @@
 # A/B Test Decision Engine — Fintech Loan CTA
 
-> **Try the live app →** 🔗 `[Add your Streamlit URL here after deploying]`
+> **Try the live app →** 🔗 `(https://abtestingfintech.streamlit.app)`
 >
 > *See the deployment instructions below to get this live in under 5 minutes (free, no server needed).*
 
