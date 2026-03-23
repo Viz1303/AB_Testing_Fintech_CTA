@@ -1,6 +1,6 @@
 # A/B Test Decision Engine — Fintech Loan CTA
 
-> **Try the live app →** 🔗 [LIVE APP](https://abtestingfintech.streamlit.app)
+
 >
 > *See the deployment instructions below to get this live in under 5 minutes (free, no server needed).*
 
@@ -26,7 +26,7 @@ It demonstrates the full experiment lifecycle that data-driven product teams run
 
 ## Live Demo
 
-> **🔗 Live App:** `[PASTE YOUR STREAMLIT URL HERE]`
+> **Try the live app →** 🔗 [LIVE APP](https://abtestingfintech.streamlit.app)
 
 To deploy your own copy (free, takes ~3 minutes):
 
