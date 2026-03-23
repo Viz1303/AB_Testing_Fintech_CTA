@@ -28,7 +28,7 @@ It demonstrates the full experiment lifecycle that data-driven product teams run
 
 > **Try the live app →** 🔗 [LIVE APP](https://abtestingfintech.streamlit.app)
 
-To deploy your own copy (free, takes ~3 minutes):
+To deploy your own copy:
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub
